@@ -1,0 +1,12 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 20% 1fr;
+  height: 100vh;
+  overflow: auto;
+  scroll-behavior: smooth;
+}
+
+.body-container {
+  overflow: auto;
+  scroll-behavior: smooth;
+}
