@@ -8,7 +8,7 @@ const About = () => {
         <h6 className="title">About Me</h6>
         <p className="description">
           I am a well-trained, skilled, and dedicated full stack developer with
-          three years of experience developing web applications. As an
+          6 months of experience developing web applications. As an
           imaginative developer, designing web apps constantly sparks inner
           creativity at every stage of their development. I enjoy taking on
           challenges and creating web programmes that are both user-friendly and
